@@ -9,7 +9,7 @@ gem "pry", "~> 0.13.0"
 gem "pry-byebug", "~> 3.9.0"
 
 # Required for samples and testing.
-gem "composite_primary_keys"
+gem "composite_primary_keys", "~> 14"
 
 # Required for samples
 gem "docker-api"
